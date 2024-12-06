@@ -6,7 +6,7 @@ Building reliable systems, scalable solutions, and elegant codebases.
 💻 Passionate about Linux, Kubernetes, AWS, and distributed systems.  
 🌱 Sharing knowledge and lessons learned the hard way through my career.
 
-*Core Competencies**
+**Core Competencies**
 
 🌟 My Areas of Expertise:
 
